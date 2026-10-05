@@ -1,0 +1,9 @@
+gradio
+deepface
+diffusers
+transformers
+accelerate
+torch
+torchvision
+opencv-contrib-python
+tf-keras
